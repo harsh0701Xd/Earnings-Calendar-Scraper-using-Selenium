@@ -28,11 +28,11 @@ You'll also need to have Firefox installed on your system, as the script utilize
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/earnings-calendar-scraper.git
+   git clone https://github.com/harsh0701Xd/Earnings-Calendar-Scraper-using-Selenium.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd earnings-calendar-scraper
+   cd Earnings-Calendar-Scraper-using-Selenium
    ```
 3. Run the script:
    ```bash
