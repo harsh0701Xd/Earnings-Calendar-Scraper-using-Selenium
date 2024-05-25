@@ -36,7 +36,7 @@ You'll also need to have Firefox installed on your system, as the script utilize
    ```
 3. Run the script:
    ```bash
-   python scraper.py
+   python Scrapper_script.py
    ```
    
 
