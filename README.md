@@ -38,5 +38,17 @@ You'll also need to have Firefox installed on your system, as the script utilize
    ```bash
    python Scrapper_script.py
    ```
+4. Example:
    
+   - User Input:
 
+     ![User Input](https://github.com/harsh0701Xd/Earnings-Calendar-Scraper-using-Selenium/assets/89227170/64a979bd-7570-4db2-a662-207b03a73828)
+   
+   - Website display based on user input:
+
+     ![Website Display based on user input](https://github.com/harsh0701Xd/Earnings-Calendar-Scraper-using-Selenium/assets/89227170/bb4a18ad-cb9b-4a54-84a5-3ec0c0b4a5b9)
+
+   - Final csv output:
+
+     ![Final Output](https://github.com/harsh0701Xd/Earnings-Calendar-Scraper-using-Selenium/assets/89227170/9e2ae4cd-4a31-4bed-bad8-9a42c277eeab)
+     
